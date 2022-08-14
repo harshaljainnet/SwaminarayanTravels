@@ -1,0 +1,4 @@
+You can book hotel from this page....
+
+
+Added in feature2
